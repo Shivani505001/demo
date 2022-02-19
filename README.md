@@ -1,2 +1,2 @@
 # demo
-date: 19 feb 2022
+date: 19th feb 2022
